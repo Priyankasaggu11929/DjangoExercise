@@ -4,5 +4,6 @@ from . import views
 
 urlpatterns = [
     path('', views.index, name='index'),
-    path('vrform/', views.vrform, name='vrform'),
+    path('vrform/', views.vrform, name='vrform')
+
 ]

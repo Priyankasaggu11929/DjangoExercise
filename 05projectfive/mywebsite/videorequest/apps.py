@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class VideorequestConfig(AppConfig):
-    name = 'videorequest'
+class VideprequestConfig(AppConfig):
+    name = 'videprequest'
